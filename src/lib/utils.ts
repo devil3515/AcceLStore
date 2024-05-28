@@ -58,7 +58,7 @@ export function constructMetadata({
       creator: "@sandaldeep",
     },
     icons,
-    metadataBase: new URL("https://accelpro.up.railway.app"),
+    metadataBase: new URL("https://accelstore.up.railway.app"),
     ...(noIndex && {
       robots: {
         index: false,
